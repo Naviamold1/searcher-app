@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-git clone https://github.com/Naviamold1/searcher-ge.git
+git clone https://github.com/Naviamold1/searcher-app.git
 cd searcher-ge
 pip install -r requirements.txt
 ```
